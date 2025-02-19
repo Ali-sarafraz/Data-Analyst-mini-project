@@ -13,8 +13,22 @@ Columns I used in the analysis:
 - `arrival_date_year`: Year of arrival at the hotel
 - `arrival_date_month`: Month of arrival at the hotel 
 - `meal`: meal type(BB, FB, ...)
-- `country`: 
-- `market_segment`
-- `adr`
+- `country`: the guest is from there
+- `market_segment`: the channel which guests book their channel on it
+- `adr`: Avrage Daily Rate per guest
+
+## Project steps
+- Data Cleaning
+- Exploratory Data Analysis - EDA
+- Visualization
+- Findings and Insight
+
+## Results & Insight
+1. City hotels are more booked than resort hotels
+2. Daily rate for resort hotels rise significantly in summer
+3. A large nimber of guests are from Portugal
+4. Online TA is more common for booking hotels
+5. more than 75% of guests choose BB during hotel booking
+
 
 
