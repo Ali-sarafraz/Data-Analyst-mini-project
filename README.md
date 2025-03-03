@@ -1,4 +1,4 @@
-# DAta Analysis ProHotel: Hotel Bookings
+# Data Analysis Project: Hotel Bookings
 
 ## overview
 This project belongs to the bootcamp I'm in and its purpose is introducing data analysis and data visualization that are one of the most important steps of learning data science.  
